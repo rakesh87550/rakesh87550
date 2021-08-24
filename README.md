@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Saha</h1>
-<h3 align="center">programmer || Developer || Learner</h3>
+<h3 align="center">Programmer || Developer || Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh87550&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh87550" /> </p>
 
