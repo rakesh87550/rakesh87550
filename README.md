@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [www.inventweb.in](www.inventweb.in)
+- 👨‍💻 All of my projects are available at [www.rakeshsaha.unaux.com](www.inventweb.in)
 
 - 📫 How to reach me **rakeshsaha87550@gmail.com**
 
-- 📄 Know about my experiences [www.inventweb.in](www.inventweb.in)
+- 📄 Know about my experiences [www.rakeshsaha.unaux.com](www.inventweb.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
