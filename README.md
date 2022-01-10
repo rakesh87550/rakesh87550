@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [www.rakeshsaha.unaux.com](www.inventweb.in)
+- 👨‍💻 All of my projects are available at [www.rakeshsaha.unaux.com](www.rakeshsaha.unaux.com)
 
 - 📫 How to reach me **rakeshsaha87550@gmail.com**
 
-- 📄 Know about my experiences [www.rakeshsaha.unaux.com](www.inventweb.in)
+- 📄 Know about my experiences [www.rakeshsaha.unaux.com](www.rakeshsaha.unaux.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakesh-saha-30a427211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakesh-saha-30a427211/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakesh-saha-30a427211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakesh-saha-30a427211/" height="30" width="40" /></a>
 <a href="https://fb.com/rakesh.saha.94043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh.saha.94043" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rakesh87550" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakesh87550" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rakeshsaha87550" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rakeshsaha87550" height="30" width="40" /></a>
